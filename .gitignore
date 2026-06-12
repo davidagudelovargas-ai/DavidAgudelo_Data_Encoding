@@ -1,0 +1,13 @@
+# Generated exports
+exports/
+
+# Trained models
+models/
+*.joblib
+
+# Large / source documents
+*.pptx
+*.pdf
+
+# Cache
+translation_cache_es_en.json

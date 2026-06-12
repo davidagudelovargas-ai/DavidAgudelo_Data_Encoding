@@ -1,0 +1,5 @@
+Unnamed: 0,value
+selected_model,random_forest
+selection_criterion,"The best balance between Macro F1, accuracy, and error interpretation is prioritized."
+target_definition,The target is the bridge cluster with the highest compatibility according to environmental scoring per cell.
+deployment_value,The model predicts plant bridge clusters from geometric and environmental variables available per cell.

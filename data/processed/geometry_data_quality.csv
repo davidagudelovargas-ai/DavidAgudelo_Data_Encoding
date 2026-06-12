@@ -1,0 +1,10 @@
+,dtype,missing_values,missing_pct,n_unique
+BUILDING_ORIENTATION,int64,0,0.0,4
+RADIATION,float64,0,0.0,40886
+RATIO_E,float64,0,0.0,4
+RATIO_N,float64,0,0.0,4
+RATIO_S,float64,0,0.0,4
+RATIO_W,float64,0,0.0,4
+SUN_HOURS,float64,0,0.0,2056
+TILE_ID,str,0,0.0,100
+UDI,float64,0,0.0,4443

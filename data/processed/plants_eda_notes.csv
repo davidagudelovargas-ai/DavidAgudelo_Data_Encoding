@@ -1,0 +1,7 @@
+Unnamed: 0,value
+dominant_ideal_light,Bright light
+dominant_tolerated_light,Diffused
+dominant_use,Potted plant; Secondary
+decision_1,The light variable will be normalized into a small number of classes to remain compatible with spatial_label.
+decision_2,Indoor use will be converted into a score because not all use texts have the same value for indoor suitability.
+decision_3,Temperature will be kept as a weak contextual criterion in the final justification.

@@ -1,0 +1,7 @@
+Unnamed: 0,value
+recommended_target_features,"BUILDING_ORIENTATION, RATIO_N, RATIO_E, RATIO_S, RATIO_W"
+recommended_label_inputs,"UDI, SUN_HOURS, RADIATION"
+drop_candidate,none
+decision_1,The spatial classifier will use geometric proxies rather than simulated indicators as training features.
+decision_2,"The labeling will be built with observed dataset percentiles, not arbitrary thresholds."
+decision_3,Relative humidity will be marked as a discard candidate because it appears constant across the dataset.

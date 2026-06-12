@@ -1,0 +1,5 @@
+sun_min_h_day,sun_max_h_day,lux_min,lux_max,sun_center_h_day,lux_center,plant_light_index,bridge_cluster_id,bridge_cluster_label
+6.0,8.0,10000.0,100000.0,7.0,55000.0,0.7916666666666667,0,bridge_cluster_0
+0.0,2.0,800.0,10000.0,1.0,5400.0,0.052996715927750404,1,bridge_cluster_1
+1.0,4.0,1500.0,30000.0,2.5,15750.0,0.2174671592775041,2,bridge_cluster_2
+0.0,1.0,500.0,8000.0,0.5,4250.0,0.020833333333333332,3,bridge_cluster_3
