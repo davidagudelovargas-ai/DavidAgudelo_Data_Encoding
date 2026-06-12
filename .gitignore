@@ -11,3 +11,9 @@ models/
 
 # Cache
 translation_cache_es_en.json
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local Python environment
+.venv/
